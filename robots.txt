@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-2731ac9e3f.ratabvd.cn/sitemap.xml
